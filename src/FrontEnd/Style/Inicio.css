@@ -1,0 +1,18 @@
+
+
+.contenedor-Nav{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #4d4d4d;
+    width: 50rem;
+    padding: 1rem;
+    border-radius: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    object-fit: cover;
+    width: 3rem;
+    height: 3rem;
+}
