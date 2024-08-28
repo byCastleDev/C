@@ -2,7 +2,7 @@ function Nav(){
     return(
         <>
             <div className="contenedor-Nav">
-                <img src="" alt="" />
+                <img src="" alt="" className="img" />
                 <ul className="navegacion">
                     <li className="inicio">Inicio</li>
                     <li className="acerca-de">Acerca De</li>
