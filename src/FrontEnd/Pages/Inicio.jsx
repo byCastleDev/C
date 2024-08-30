@@ -1,4 +1,5 @@
 import "../Style/Inicio.css"
+import Footer from '../Components/Footer.jsx'
 import Nav from "../Components/Nav.jsx"
 import Muestra from "../Components/Muestra.jsx"
 import Portada2 from "../Image/Portada2.webp"
@@ -28,6 +29,7 @@ function Inicio(){
                         <Muestra/>
                     </div>
                 </div>
+                <Footer/>
             </div>
         </>
     )

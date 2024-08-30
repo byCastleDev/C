@@ -72,3 +72,9 @@
     flex-wrap: wrap;
     z-index: -1;
 }
+
+.contenedor-Footer{
+    width: 100%;
+    height: 200px;
+    background-color: #333333;
+}
